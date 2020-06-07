@@ -1,0 +1,23 @@
+.TooltipDataContainer {
+  background: #266ad1;
+  padding: 20px;
+  border-radius: 4px;
+}
+.ctaWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.buttonCta {
+  color: #2d2d2d;
+  cursor: pointer;
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  min-width: 200px;
+  min-height: 60px;
+  box-shadow: 0 8px 0 0 #afafaf;
+}

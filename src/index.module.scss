@@ -1,0 +1,10 @@
+.stepsView {
+  position: fixed;
+  z-index: 103;
+  left: 40px;
+  top: 40px;
+  @media screen and (max-width: 767px) {
+    left: 20px;
+    top: 20px;
+  }
+}
